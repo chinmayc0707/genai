@@ -1,0 +1,61 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/chinmayc0707/genai/blob/main/colab%20links\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "All program colab links=\n",
+        "\n",
+        "links=\n",
+        "1. https://colab.research.google.com/drive/1RGUlLv5n7W0hG67GYwiyU4XhvO1OJ_we?usp=sharing\n",
+        "\n",
+        "2a. https://colab.research.google.com/drive/1TXdJ7u7IrKvnefr0DBYJa6KkkiEJHSUO?usp=sharing\n",
+        "\n",
+        "2b. https://colab.research.google.com/drive/1CYL7T0aDi0d084CvQRZlrLQicHQdbipt?usp=sharing\n",
+        "\n",
+        "3. https://colab.research.google.com/drive/1In_mByYIwDq8KvgCRHLT8-KAGlLeXIqf?usp=sharing\n",
+        "4. https://colab.research.google.com/drive/1zpzeSjVRUjkAZzit8k0KtlSEhqMLpGBO?usp=sharing\n",
+        "5. https://colab.research.google.com/drive/1H46aFQ6Lj4dwMJFaUKjaSSMOU3ub1hg9?usp=sharing\n",
+        "6. https://colab.research.google.com/github/SanthoshSJBIT/GenAI/blob/main/Program_6.ipynb\n",
+        "7. https://colab.research.google.com/github/SanthoshSJBIT/GenAI/blob/main/Program_7.ipynb\n",
+        "9. https://colab.research.google.com/github/SanthoshSJBIT/GenAI/blob/main/Program_9.ipynb"
+      ],
+      "metadata": {
+        "id": "5-BtPjnqw8xE"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "mELRkuGow_2J"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
